@@ -37,6 +37,7 @@ data_format | xml_v2 | Bind stats version:<br>
  - xml_v3 (New xml version)<br>
  - json_v1 (JSON replacement for XML)<br>
  | str
+derivative | True | Report derived stats or raw (always incrementing) | bool
 
 #### Example Output
 
